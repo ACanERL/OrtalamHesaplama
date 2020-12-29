@@ -1,0 +1,2 @@
+# OrtalamHesaplama
+ Kotlin
